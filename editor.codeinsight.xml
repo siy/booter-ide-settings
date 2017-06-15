@@ -1,0 +1,15 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="300" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="3000" />
+    <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+</application>
